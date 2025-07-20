@@ -1,0 +1,13 @@
+# Environment configuration
+.env
+
+# SSH keys
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Temporary files
+*.tmp
+*.swp
+*~
